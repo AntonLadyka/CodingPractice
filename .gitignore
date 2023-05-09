@@ -1,2 +1,11 @@
 # Project exclude paths
+.idea
+
+*.iws
+*.properties
+*.mf
+
 /out/
+/out.log
+/out.log.*
+/META-INF/
